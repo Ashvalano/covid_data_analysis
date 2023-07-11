@@ -36,4 +36,4 @@
 8. Hypothesis testing:
    - Conduct statistical tests to compare COVID-19 outcomes based on variables such as age group, gender, or health status.
 
-### by geographical location/region, if pregnancy has any effect, date of symptoms vs date announced
+### if pregnancy has any effect, date of symptoms vs date announced, death/recovery rate over time
